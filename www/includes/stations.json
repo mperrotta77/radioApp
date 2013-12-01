@@ -1,0 +1,55 @@
+[
+
+{
+	"image":"images/fm96TH.jpg",
+		
+	"page":"#fm96",
+		
+	"musicStyle":"Rock, Classic Rock",
+		
+	"stationName":"FM96 - Londons Best Rock"
+	
+},	
+{
+	"image":"images/freshTH.jpg",
+		
+	"page":"#fresh",
+		
+	"musicStyle":"New Music, Top 40",
+		
+	"stationName":"The New 103.1 Fresh FM"
+	
+},
+
+{
+	"image":"images/bobTH.jpg",
+		
+	"page":"#bob",
+		
+	"musicStyle":"Playing Whatever, whenever!",
+		
+	"stationName":"102.3 BOB FM"
+	
+},
+{
+	"image":"images/virginTH.jpg",
+		
+	"page":"#virgin",
+		
+	"musicStyle":"Alternative, Rap, Top 40",
+		
+	"stationName":"Virgin Radio"
+	
+},
+{
+	"image":"images/freeTH.jpg",
+		
+	"page":"#free",
+		
+	"musicStyle":"World Class Rock",
+		
+	"stationName":"98.1 Free FM"
+	
+}
+
+]

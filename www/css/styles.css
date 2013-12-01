@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+#fm96player, #freshplayer, #bobplayer, #virginplayer, #freeplayer {
+	background: url('../images/dark_dotted2_@2X.png');
+}
+
+.playerText{
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #FFF;
+}
+
+.maxSize{
+	max-width: 100%;
+}
